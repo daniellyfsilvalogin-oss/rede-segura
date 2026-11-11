@@ -1,0 +1,9 @@
+{
+  "name": "Rede Segura",
+  "short_name": "Rede Segura",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffbe5",
+  "theme_color": "#fff7c9",
+  "description": "Informação, acolhimento e proteção."
+}
